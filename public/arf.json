@@ -2,6 +2,241 @@
   "children": [
     {
       "children": [
+        {
+          "name": "CyberChef",
+          "type": "url",
+          "url": "https://gchq.github.io/CyberChef/"
+        },
+        {
+          "name": "dCode",
+          "type": "url",
+          "url": "https://www.dcode.fr/tools-list"
+        },
+        {
+          "name": "factordb",
+          "type": "url",
+          "url": "http://www.factordb.com/index.php"
+        },
+        {
+          "name": "Free Password Hash Cracker",
+          "type": "url",
+          "url": "https://crackstation.net/"
+        },
+        {
+          "name": "gmpy2 (T)",
+          "type": "url",
+          "url": "https://pypi.org/project/gmpy2/"
+        },
+        {
+          "name": "primefac-fork",
+          "type": "url",
+          "url": "https://github.com/elliptic-shiho/primefac-fork"
+        },
+        {
+          "name": "quipqiup",
+          "type": "url",
+          "url": "http://www.quipqiup.com/"
+        },
+        {
+          "name": "SageMath (T)",
+          "type": "url",
+          "url": "https://www.sagemath.org/"
+        },
+        {
+          "name": "Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes",
+          "type": "url",
+          "url": "https://hashes.com/en/decrypt/hash"
+        },
+        {
+          "name": "hashcat (T)",
+          "type": "url",
+          "url": "https://github.com/hashcat/hashcat"
+        },
+        {
+          "name": "HashPump (T)",
+          "type": "url",
+          "url": "https://github.com/bwall/HashPump"
+        },
+        {
+          "name": "hashpumpy (T)",
+          "type": "url",
+          "url": "https://pypi.org/project/hashpumpy/"
+        },
+        {
+          "name": "John The Ripper (T)",
+          "type": "url",
+          "url": "https://www.openwall.com/john/"
+        },
+        {
+          "name": "Lunicode",
+          "type": "url",
+          "url": "https://lunicode.com/flip"
+        },
+        {
+          "name": "malduck",
+          "type": "url",
+          "url": "https://github.com/CERT-Polska/malduck"
+        },
+        {
+          "name": "MD5 Online",
+          "type": "url",
+          "url": "https://www.md5online.org/md5-decrypt.html"
+        },
+        {
+          "name": "Msieve (T)",
+          "type": "url",
+          "url": "https://sourceforge.net/projects/msieve/"
+        },
+        {
+          "name": "neca (T)",
+          "type": "url",
+          "url": "https://gitlab.com/jix/neca"
+        },
+        {
+          "name": "PkCrack (T)",
+          "type": "url",
+          "url": "https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html"
+        },
+        {
+          "name": "primecount (T)",
+          "type": "url",
+          "url": "https://github.com/kimwalisch/primecount"
+        },
+        {
+          "name": "randcrack (T)",
+          "type": "url",
+          "url": "https://github.com/tna0y/Python-random-module-cracker"
+        },
+        {
+          "name": "spammimic",
+          "type": "url",
+          "url": "https://www.spammimic.com/index.cgi"
+        },
+        {
+          "name": "Uudecode",
+          "type": "url",
+          "url": "https://www.textencode.com/decoder/uudecodeDecoder"
+        },
+        {
+          "name": "uuencode変換",
+          "type": "url",
+          "url": "http://www.motohasi.net/Misc/UUConv.php"
+        },
+        {
+          "name": "Vigenere Solver",
+          "type": "url",
+          "url": "https://www.guballa.de/vigenere-solver"
+        },
+        {
+          "name": "WolframAlpha",
+          "type": "url",
+          "url": "https://www.wolframalpha.com/"
+        },
+        {
+          "name": "YAFU (T)",
+          "type": "url",
+          "url": "https://sites.google.com/site/bbuhrow/home?authuser=0"
+        },
+        {
+          "name": "Z3 (T)",
+          "type": "url",
+          "url": "https://github.com/Z3Prover/z3"
+        },
+        {
+          "name": "任意ROT N",
+          "type": "url",
+          "url": "https://tools.m-bsys.com/original_tooles/optional_rotN.php"
+        },
+        {
+          "name": "多言語シーザー暗号(Universal Caesar cipher)",
+          "type": "url",
+          "url": "http://anti.rosx.net/etc/tools/enc_caesar.php"
+        },
+        {
+          "name": "	文字出現頻度分析ツール",
+          "type": "url",
+          "url": "https://tools.m-bsys.com/original_tooles/frequency_analysis.php"
+        },
+        {
+          "name": "ADFGVX encoder/decoder",
+          "type": "url",
+          "url": "http://www.grasoft.be/geotools/ADFGVX.htm"
+        },
+        {
+          "name": "ADFGVX暗号で暗号化",
+          "type": "url",
+          "url": "https://linesegment.web.fc2.com/application/cipher/ADFGVX.html"
+        },
+        {
+          "name": "chepy (T)",
+          "type": "url",
+          "url": "https://github.com/securisec/chepy"
+        },
+        {
+          "name": "GeocachingToolbox",
+          "type": "url",
+          "url": "https://www.geocachingtoolbox.com/index.php?lang=en"
+        },
+        {
+          "name": "Internet Anagram Server",
+          "type": "url",
+          "url": "http://wordsmith.org/anagram/"
+        },
+        {
+          "name": "Morse Code Translator",
+          "type": "url",
+          "url": "https://morse.ariafloat.com/en/"
+        },
+        {
+          "name": "oWiener (T)",
+          "type": "url",
+          "url": "https://github.com/orisano/owiener"
+        },
+        {
+          "name": "primefac (T)",
+          "type": "url",
+          "url": "https://pypi.org/project/primefac/"
+        },
+        {
+          "name": "ROT encoder and decoder",
+          "type": "url",
+          "url": "https://approsto.com/rot-encoder-decoder/"
+        },
+        {
+          "name": "rot13.com",
+          "type": "url",
+          "url": "https://rot13.com/"
+        },
+        {
+          "name": "Rot180 encoder",
+          "type": "url",
+          "url": "http://www.logarithmic.net/pfh-files/blog/01173253837/rot180.html"
+        },
+        {
+          "name": "RsaCtfTool (T)",
+          "type": "url",
+          "url": "https://github.com/Ganapati/RsaCtfTool"
+        },
+        {
+          "name": "みかか変換ツール",
+          "type": "url",
+          "url": "https://tools.m-bsys.com/original_tooles/mikaka.php"
+        },
+        {
+          "name": "ハッシュ計算ツール",
+          "type": "url",
+          "url": "https://lazesoftware.com/tool/hash/"
+        },
+        {
+          "name": "上杉暗号(字変四八の奥義)",
+          "type": "url",
+          "url": "http://anti.rosx.net/etc/tools/enc_uesugi.php"
+        },
+        {
+          "name": "何でもモールス信号変換",
+          "type": "url",
+          "url": "https://morse.ariafloat.com/"
+        }
       ],
       "name": "Cryptography",
       "type": "folder"
