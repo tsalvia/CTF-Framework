@@ -3,6 +3,47 @@
     {
       "children": [
         {
+          "children": [
+            {
+              "name": "Free Password Hash Cracker",
+              "type": "url",
+              "url": "https://crackstation.net/"
+            },
+            {
+              "name": "Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes",
+              "type": "url",
+              "url": "https://hashes.com/en/decrypt/hash"
+            },
+            {
+              "name": "MD5 Online",
+              "type": "url",
+              "url": "https://www.md5online.org/md5-decrypt.html"
+            },
+            {
+              "name": "HashPump (T)",
+              "type": "url",
+              "url": "https://github.com/bwall/HashPump"
+            },
+            {
+              "name": "hashpumpy (T)",
+              "type": "url",
+              "url": "https://pypi.org/project/hashpumpy/"
+            },
+            {
+              "name": "hashcat (T)",
+              "type": "url",
+              "url": "https://github.com/hashcat/hashcat"
+            },
+            {
+              "name": "John The Ripper (T)",
+              "type": "url",
+              "url": "https://www.openwall.com/john/"
+            }
+          ],
+          "name": "Hash Crack / Password Recovery",
+          "type": "folder"
+        },
+        {
           "name": "CyberChef",
           "type": "url",
           "url": "https://gchq.github.io/CyberChef/"
@@ -16,11 +57,6 @@
           "name": "factordb",
           "type": "url",
           "url": "http://www.factordb.com/index.php"
-        },
-        {
-          "name": "Free Password Hash Cracker",
-          "type": "url",
-          "url": "https://crackstation.net/"
         },
         {
           "name": "gmpy2 (T)",
@@ -43,31 +79,6 @@
           "url": "https://www.sagemath.org/"
         },
         {
-          "name": "Decrypt MD5, SHA1, MySQL, NTLM, SHA256, SHA512 hashes",
-          "type": "url",
-          "url": "https://hashes.com/en/decrypt/hash"
-        },
-        {
-          "name": "hashcat (T)",
-          "type": "url",
-          "url": "https://github.com/hashcat/hashcat"
-        },
-        {
-          "name": "HashPump (T)",
-          "type": "url",
-          "url": "https://github.com/bwall/HashPump"
-        },
-        {
-          "name": "hashpumpy (T)",
-          "type": "url",
-          "url": "https://pypi.org/project/hashpumpy/"
-        },
-        {
-          "name": "John The Ripper (T)",
-          "type": "url",
-          "url": "https://www.openwall.com/john/"
-        },
-        {
           "name": "Lunicode",
           "type": "url",
           "url": "https://lunicode.com/flip"
@@ -76,11 +87,6 @@
           "name": "malduck",
           "type": "url",
           "url": "https://github.com/CERT-Polska/malduck"
-        },
-        {
-          "name": "MD5 Online",
-          "type": "url",
-          "url": "https://www.md5online.org/md5-decrypt.html"
         },
         {
           "name": "Msieve (T)",
