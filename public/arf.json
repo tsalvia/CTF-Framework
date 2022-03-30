@@ -75,6 +75,57 @@
           "type": "folder"
         },
         {
+          "children": [
+            {
+              "name": "factordb",
+              "type": "url",
+              "url": "http://www.factordb.com/index.php"
+            },
+            {
+              "name": "primefac-fork (T)",
+              "type": "url",
+              "url": "https://github.com/elliptic-shiho/primefac-fork"
+            },
+            {
+              "name": "primefac (T)",
+              "type": "url",
+              "url": "https://pypi.org/project/primefac/"
+            },
+            {
+              "name": "Msieve (T)",
+              "type": "url",
+              "url": "https://sourceforge.net/projects/msieve/"
+            },
+            {
+              "name": "YAFU (T)",
+              "type": "url",
+              "url": "https://sites.google.com/site/bbuhrow/home?authuser=0"
+            },
+            {
+              "name": "neca (T)",
+              "type": "url",
+              "url": "https://gitlab.com/jix/neca"
+            },
+            {
+              "name": "primecount (T)",
+              "type": "url",
+              "url": "https://github.com/kimwalisch/primecount"
+            },
+            {
+              "name": "oWiener (T)",
+              "type": "url",
+              "url": "https://github.com/orisano/owiener"
+            },
+            {
+              "name": "RsaCtfTool (T)",
+              "type": "url",
+              "url": "https://github.com/Ganapati/RsaCtfTool"
+            }
+          ],
+          "name": "RSA / Prime Number",
+          "type": "folder"
+        },
+        {
           "name": "CyberChef",
           "type": "url",
           "url": "https://gchq.github.io/CyberChef/"
@@ -85,19 +136,9 @@
           "url": "https://www.dcode.fr/tools-list"
         },
         {
-          "name": "factordb",
-          "type": "url",
-          "url": "http://www.factordb.com/index.php"
-        },
-        {
           "name": "gmpy2 (T)",
           "type": "url",
           "url": "https://pypi.org/project/gmpy2/"
-        },
-        {
-          "name": "primefac-fork",
-          "type": "url",
-          "url": "https://github.com/elliptic-shiho/primefac-fork"
         },
         {
           "name": "quipqiup",
@@ -120,24 +161,9 @@
           "url": "https://github.com/CERT-Polska/malduck"
         },
         {
-          "name": "Msieve (T)",
-          "type": "url",
-          "url": "https://sourceforge.net/projects/msieve/"
-        },
-        {
-          "name": "neca (T)",
-          "type": "url",
-          "url": "https://gitlab.com/jix/neca"
-        },
-        {
           "name": "PkCrack (T)",
           "type": "url",
           "url": "https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html"
-        },
-        {
-          "name": "primecount (T)",
-          "type": "url",
-          "url": "https://github.com/kimwalisch/primecount"
         },
         {
           "name": "randcrack (T)",
@@ -168,11 +194,6 @@
           "name": "WolframAlpha",
           "type": "url",
           "url": "https://www.wolframalpha.com/"
-        },
-        {
-          "name": "YAFU (T)",
-          "type": "url",
-          "url": "https://sites.google.com/site/bbuhrow/home?authuser=0"
         },
         {
           "name": "Z3 (T)",
@@ -213,21 +234,6 @@
           "name": "Morse Code Translator",
           "type": "url",
           "url": "https://morse.ariafloat.com/en/"
-        },
-        {
-          "name": "oWiener (T)",
-          "type": "url",
-          "url": "https://github.com/orisano/owiener"
-        },
-        {
-          "name": "primefac (T)",
-          "type": "url",
-          "url": "https://pypi.org/project/primefac/"
-        },
-        {
-          "name": "RsaCtfTool (T)",
-          "type": "url",
-          "url": "https://github.com/Ganapati/RsaCtfTool"
         },
         {
           "name": "みかか変換ツール",
